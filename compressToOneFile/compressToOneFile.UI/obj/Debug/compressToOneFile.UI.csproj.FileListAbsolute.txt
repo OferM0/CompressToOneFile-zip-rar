@@ -1,0 +1,14 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\bin\Debug\compressToOneFile.UI.exe.config
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\bin\Debug\compressToOneFile.UI.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\bin\Debug\compressToOneFile.UI.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\bin\Debug\compressToOneFile.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\bin\Debug\compressToOneFile.Entities.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.Form1.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.Properties.Resources.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.csproj.GenerateResource.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.csproj.CopyComplete
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.UI\obj\Debug\compressToOneFile.UI.pdb

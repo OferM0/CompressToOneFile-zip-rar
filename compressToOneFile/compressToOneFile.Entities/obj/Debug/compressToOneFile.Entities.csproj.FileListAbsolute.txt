@@ -1,0 +1,6 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.Entities\bin\Debug\compressToOneFile.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.Entities\bin\Debug\compressToOneFile.Entities.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.Entities\obj\Debug\compressToOneFile.Entities.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.Entities\obj\Debug\compressToOneFile.Entities.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.Entities\obj\Debug\compressToOneFile.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\Cs\compressToOneFile\compressToOneFile.Entities\obj\Debug\compressToOneFile.Entities.pdb
